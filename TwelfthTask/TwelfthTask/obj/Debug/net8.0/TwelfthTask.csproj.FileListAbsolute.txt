@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\bin\Debug\net8.0\TwelfthTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\bin\Debug\net8.0\TwelfthTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\bin\Debug\net8.0\TwelfthTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\bin\Debug\net8.0\TwelfthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\bin\Debug\net8.0\TwelfthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\TwelfthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\TwelfthTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\TwelfthTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\TwelfthTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\TwelfthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\refint\TwelfthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\TwelfthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\TwelfthTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TwelfthTask\TwelfthTask\obj\Debug\net8.0\ref\TwelfthTask.dll

@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\bin\Debug\net8.0\TenthTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\bin\Debug\net8.0\TenthTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\bin\Debug\net8.0\TenthTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\bin\Debug\net8.0\TenthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\bin\Debug\net8.0\TenthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\TenthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\TenthTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\TenthTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\TenthTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\TenthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\refint\TenthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\TenthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\TenthTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\TenthTask\TenthTask\obj\Debug\net8.0\ref\TenthTask.dll

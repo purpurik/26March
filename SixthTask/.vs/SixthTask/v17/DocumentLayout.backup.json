@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mynzm\\OneDrive\\Documents\\Homework\\26March\\SixthTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A43FD9C-B4B1-4E2A-9AC7-4BE32E73D4CD}|SixthTask\\SixthTask.csproj|c:\\users\\mynzm\\onedrive\\documents\\homework\\26march\\sixthtask\\sixthtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A43FD9C-B4B1-4E2A-9AC7-4BE32E73D4CD}|SixthTask\\SixthTask.csproj|solutionrelative:sixthtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mynzm\\OneDrive\\Documents\\Homework\\26March\\SixthTask\\SixthTask\\Program.cs",
+              "RelativeDocumentMoniker": "SixthTask\\Program.cs",
+              "ToolTip": "C:\\Users\\mynzm\\OneDrive\\Documents\\Homework\\26March\\SixthTask\\SixthTask\\Program.cs",
+              "RelativeToolTip": "SixthTask\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:11:08.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

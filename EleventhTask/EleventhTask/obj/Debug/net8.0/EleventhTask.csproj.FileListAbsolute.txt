@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\bin\Debug\net8.0\EleventhTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\bin\Debug\net8.0\EleventhTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\bin\Debug\net8.0\EleventhTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\bin\Debug\net8.0\EleventhTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\bin\Debug\net8.0\EleventhTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\EleventhTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\EleventhTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\EleventhTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\EleventhTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\EleventhTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\refint\EleventhTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\EleventhTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\EleventhTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\EleventhTask\EleventhTask\obj\Debug\net8.0\ref\EleventhTask.dll

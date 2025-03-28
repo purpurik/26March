@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\bin\Debug\net8.0\SixthTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\bin\Debug\net8.0\SixthTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\bin\Debug\net8.0\SixthTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\bin\Debug\net8.0\SixthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\bin\Debug\net8.0\SixthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\SixthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\SixthTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\SixthTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\SixthTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\SixthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\refint\SixthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\SixthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\SixthTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\SixthTask\SixthTask\obj\Debug\net8.0\ref\SixthTask.dll

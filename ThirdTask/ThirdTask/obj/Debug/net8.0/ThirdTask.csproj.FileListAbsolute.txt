@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\bin\Debug\net8.0\ThirdTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\bin\Debug\net8.0\ThirdTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\bin\Debug\net8.0\ThirdTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\bin\Debug\net8.0\ThirdTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\bin\Debug\net8.0\ThirdTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ThirdTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ThirdTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\refint\ThirdTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ThirdTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ThirdTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\ThirdTask\ThirdTask\obj\Debug\net8.0\ref\ThirdTask.dll

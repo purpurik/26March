@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\bin\Debug\net8.0\FifteenthTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\bin\Debug\net8.0\FifteenthTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\bin\Debug\net8.0\FifteenthTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\bin\Debug\net8.0\FifteenthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\bin\Debug\net8.0\FifteenthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\FifteenthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\FifteenthTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\FifteenthTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\FifteenthTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\FifteenthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\refint\FifteenthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\FifteenthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\FifteenthTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FifteenthTask\FifteenthTask\obj\Debug\net8.0\ref\FifteenthTask.dll

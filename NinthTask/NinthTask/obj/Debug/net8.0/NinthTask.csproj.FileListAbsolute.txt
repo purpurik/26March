@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\NinthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\NinthTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\NinthTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\NinthTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\bin\Debug\net8.0\NinthTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\bin\Debug\net8.0\NinthTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\bin\Debug\net8.0\NinthTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\bin\Debug\net8.0\NinthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\bin\Debug\net8.0\NinthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\NinthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\refint\NinthTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\NinthTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\NinthTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\NinthTask\NinthTask\obj\Debug\net8.0\ref\NinthTask.dll

@@ -1,0 +1,14 @@
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.exe
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.deps.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.runtimeconfig.json
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\bin\Debug\net8.0\FirstTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfo.cs
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\refint\FirstTask.dll
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.pdb
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\FirstTask.genruntimeconfig.cache
+C:\Users\mynzm\OneDrive\Documents\Homework\26March\FirstTask\FirstTask\obj\Debug\net8.0\ref\FirstTask.dll
